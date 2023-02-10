@@ -1,0 +1,252 @@
+2023-01-30 09:40:50,051 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-30 10:37:17,370 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-30 15:08:05,717 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-30 15:08:31,482 [Worker-3: Importing Maven projects] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project Crm_Lead already exists
+2023-01-30 15:08:31,485 [Worker-3: Importing Maven projects] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project selenium already exists
+2023-01-30 15:08:35,025 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: crm:crmlead-biz-api:0.0.1-SNAPSHOT @ D:\Automation\crmlead\crmlead-biz-api\pom.xml.
+2023-01-30 15:08:35,378 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/crmlead-domain: crm:crmlead-domain:0.0.1-SNAPSHOT with classifier  to /crmlead-domain/target/classes
+2023-01-30 15:08:37,293 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: crm:crmlead-repo-provider:0.0.1-SNAPSHOT @ D:\Automation\crmlead\crmlead-repo-provider\pom.xml.
+2023-01-30 15:08:39,401 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/crmlead-repo-api: crm:crmlead-repo-api:0.0.1-SNAPSHOT with classifier  to /crmlead-repo-api/target/classes
+2023-01-30 15:08:39,404 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/crmlead-domain: crm:crmlead-domain:0.0.1-SNAPSHOT with classifier  to /crmlead-domain/target/classes
+2023-01-30 15:08:41,447 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Learn_selenium:selenium:0.0.1-SNAPSHOT @ D:\Automation\Automation\Learning\selenium\pom.xml.
+2023-01-30 15:08:41,762 [Worker-3: Importing Maven projects] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2023-01-30 15:08:42,033 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.com.aik:aik:0.0.1-SNAPSHOT @ D:\Automation\aik\pom.xml.
+2023-01-30 15:08:42,908 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: crm:crmlead-commons:0.0.1-SNAPSHOT @ D:\Automation\crmlead\crmlead-commons\pom.xml.
+2023-01-30 15:08:43,814 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: crm:crmlead-biz-provider:0.0.1-SNAPSHOT @ D:\Automation\crmlead\crmlead-biz-provider\pom.xml.
+2023-01-30 15:08:43,897 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/crmlead-repo-api: crm:crmlead-repo-api:0.0.1-SNAPSHOT with classifier  to /crmlead-repo-api/target/classes
+2023-01-30 15:08:43,898 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/crmlead-domain: crm:crmlead-domain:0.0.1-SNAPSHOT with classifier  to /crmlead-domain/target/classes
+2023-01-30 15:08:43,898 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/crmlead-biz-api: crm:crmlead-biz-api:0.0.1-SNAPSHOT with classifier  to /crmlead-biz-api/target/classes
+2023-01-30 15:08:43,928 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.simplelearn:mavenproject:0.0.1-SNAPSHOT @ D:\Automation\mavenproject\pom.xml.
+2023-01-30 15:08:43,944 [Worker-3: Importing Maven projects] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2023-01-30 15:08:43,990 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.com.restapitest:apirest:0.0.1-SNAPSHOT @ D:\Automation\apirest\pom.xml.
+2023-01-30 15:08:44,885 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: crm:crmlead-manager-api:0.0.1-SNAPSHOT @ D:\Automation\crmlead\crmlead-manager-api\pom.xml.
+2023-01-30 15:08:44,896 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: crm:crmlead:0.0.1-SNAPSHOT @ D:\Automation\crmlead\pom.xml.
+2023-01-30 15:08:44,927 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: crm:Muasfir:0.0.1-SNAPSHOT @ D:\Automation\Muasfir_Test\pom.xml.
+2023-01-30 15:08:45,756 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: crm:crmlead-repo-api:0.0.1-SNAPSHOT @ D:\Automation\crmlead\crmlead-repo-api\pom.xml.
+2023-01-30 15:08:45,766 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/crmlead-domain: crm:crmlead-domain:0.0.1-SNAPSHOT with classifier  to /crmlead-domain/target/classes
+2023-01-30 15:08:45,800 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.com.restapitest:restapi:0.0.1-SNAPSHOT @ D:\Automation\restapi\pom.xml.
+2023-01-30 15:08:46,442 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: crm:crmlead-domain:0.0.1-SNAPSHOT @ D:\Automation\crmlead\crmlead-domain\pom.xml.
+2023-01-30 15:08:47,071 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: crm:crmlead-manager-provider:0.0.1-SNAPSHOT @ D:\Automation\crmlead\crmlead-manager-provider\pom.xml.
+2023-01-30 15:08:47,120 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/crmlead-manager-api: crm:crmlead-manager-api:0.0.1-SNAPSHOT with classifier  to /crmlead-manager-api/target/classes
+2023-01-30 15:08:47,141 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Automation_Project_1:Musafir:0.0.1-SNAPSHOT @ D:\Automation\Musafir\Musafir\pom.xml.
+2023-01-30 15:08:47,744 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: crm:crmlead-ctl:0.0.1-SNAPSHOT @ D:\Automation\crmlead\crmlead-ctl\pom.xml.
+2023-01-30 15:08:47,846 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/crmlead-biz-api: crm:crmlead-biz-api:0.0.1-SNAPSHOT with classifier  to /crmlead-biz-api/target/classes
+2023-01-30 15:08:47,846 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/crmlead-domain: crm:crmlead-domain:0.0.1-SNAPSHOT with classifier  to /crmlead-domain/target/classes
+2023-01-30 15:08:47,873 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: QA:Crm_Lead:0.0.1-SNAPSHOT @ D:\Automation\Crm_keyword\pom.xml.
+2023-01-30 15:08:47,876 [Worker-3: Importing Maven projects] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2023-01-30 15:08:48,550 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: crm:crmlead-biz-api:0.0.1-SNAPSHOT @ D:\Automation\crmlead\crmlead-biz-api\pom.xml.
+2023-01-30 15:08:48,557 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/crmlead-domain: crm:crmlead-domain:0.0.1-SNAPSHOT with classifier  to /crmlead-domain/target/classes
+2023-01-30 15:08:49,124 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: crm:crmlead-repo-provider:0.0.1-SNAPSHOT @ D:\Automation\crmlead\crmlead-repo-provider\pom.xml.
+2023-01-30 15:08:49,162 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/crmlead-repo-api: crm:crmlead-repo-api:0.0.1-SNAPSHOT with classifier  to /crmlead-repo-api/target/classes
+2023-01-30 15:08:49,162 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/crmlead-domain: crm:crmlead-domain:0.0.1-SNAPSHOT with classifier  to /crmlead-domain/target/classes
+2023-01-30 15:08:49,758 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: crm:crmlead-manager-api:0.0.1-SNAPSHOT @ D:\Automation\crmlead\crmlead-manager-api\pom.xml.
+2023-01-30 15:08:50,318 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: crm:crmlead-commons:0.0.1-SNAPSHOT @ D:\Automation\crmlead\crmlead-commons\pom.xml.
+2023-01-30 15:08:50,959 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: crm:crmlead-biz-provider:0.0.1-SNAPSHOT @ D:\Automation\crmlead\crmlead-biz-provider\pom.xml.
+2023-01-30 15:08:50,994 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/crmlead-repo-api: crm:crmlead-repo-api:0.0.1-SNAPSHOT with classifier  to /crmlead-repo-api/target/classes
+2023-01-30 15:08:50,994 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/crmlead-domain: crm:crmlead-domain:0.0.1-SNAPSHOT with classifier  to /crmlead-domain/target/classes
+2023-01-30 15:08:50,994 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/crmlead-biz-api: crm:crmlead-biz-api:0.0.1-SNAPSHOT with classifier  to /crmlead-biz-api/target/classes
+2023-01-30 15:08:51,552 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: crm:crmlead-repo-api:0.0.1-SNAPSHOT @ D:\Automation\crmlead\crmlead-repo-api\pom.xml.
+2023-01-30 15:08:51,557 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/crmlead-domain: crm:crmlead-domain:0.0.1-SNAPSHOT with classifier  to /crmlead-domain/target/classes
+2023-01-30 15:08:52,073 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: crm:crmlead-ctl:0.0.1-SNAPSHOT @ D:\Automation\crmlead\crmlead-ctl\pom.xml.
+2023-01-30 15:08:52,110 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/crmlead-biz-api: crm:crmlead-biz-api:0.0.1-SNAPSHOT with classifier  to /crmlead-biz-api/target/classes
+2023-01-30 15:08:52,111 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/crmlead-domain: crm:crmlead-domain:0.0.1-SNAPSHOT with classifier  to /crmlead-domain/target/classes
+2023-01-30 15:08:52,653 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: crm:crmlead-manager-provider:0.0.1-SNAPSHOT @ D:\Automation\crmlead\crmlead-manager-provider\pom.xml.
+2023-01-30 15:08:52,685 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/crmlead-manager-api: crm:crmlead-manager-api:0.0.1-SNAPSHOT with classifier  to /crmlead-manager-api/target/classes
+2023-01-30 15:08:53,258 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: crm:crmlead-repo-provider:0.0.1-SNAPSHOT @ D:\Automation\crmlead\crmlead-repo-provider\pom.xml.
+2023-01-30 15:08:53,289 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/crmlead-repo-api: crm:crmlead-repo-api:0.0.1-SNAPSHOT with classifier  to /crmlead-repo-api/target/classes
+2023-01-30 15:08:53,289 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/crmlead-domain: crm:crmlead-domain:0.0.1-SNAPSHOT with classifier  to /crmlead-domain/target/classes
+2023-01-30 15:08:53,865 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: crm:crmlead-biz-provider:0.0.1-SNAPSHOT @ D:\Automation\crmlead\crmlead-biz-provider\pom.xml.
+2023-01-30 15:08:53,913 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/crmlead-repo-api: crm:crmlead-repo-api:0.0.1-SNAPSHOT with classifier  to /crmlead-repo-api/target/classes
+2023-01-30 15:08:53,914 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/crmlead-domain: crm:crmlead-domain:0.0.1-SNAPSHOT with classifier  to /crmlead-domain/target/classes
+2023-01-30 15:08:53,914 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/crmlead-biz-api: crm:crmlead-biz-api:0.0.1-SNAPSHOT with classifier  to /crmlead-biz-api/target/classes
+2023-01-30 15:08:57,166 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /apirest/src/main/java
+2023-01-30 15:08:57,167 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /apirest/src/test/java
+2023-01-30 15:08:57,325 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /crmlead-commons/src/main/java
+2023-01-30 15:08:57,325 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /crmlead-commons/src/test/java
+2023-01-30 15:08:57,369 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Crm_Lead/src/main/java
+2023-01-30 15:08:57,370 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Crm_Lead/src/test/java
+2023-01-30 15:08:57,602 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /aik/src/main/java
+2023-01-30 15:08:57,603 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /aik/src/test/java
+2023-01-30 15:08:57,706 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /selenium/src/main/java
+2023-01-30 15:08:57,707 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /selenium/src/test/java
+2023-01-30 15:08:57,909 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /crmlead-domain/src/main/java
+2023-01-30 15:08:57,910 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /crmlead-domain/src/test/java
+2023-01-30 15:08:57,960 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /crmlead-repo-api/src/main/java
+2023-01-30 15:08:57,960 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /crmlead-repo-api/src/test/java
+2023-01-30 15:08:57,999 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /crmlead-biz-api/src/main/java
+2023-01-30 15:08:57,999 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /crmlead-biz-api/src/test/java
+2023-01-30 15:08:58,041 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /crmlead-biz-provider/src/main/java
+2023-01-30 15:08:58,042 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /crmlead-biz-provider/src/main/resources
+2023-01-30 15:08:58,042 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /crmlead-biz-provider/src/main/resources
+2023-01-30 15:08:58,042 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /crmlead-biz-provider/src/test/java
+2023-01-30 15:08:58,320 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /crmlead-manager-api/src/main/java
+2023-01-30 15:08:58,320 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /crmlead-manager-api/src/test/java
+2023-01-30 15:08:58,332 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /crmlead-manager-provider/src/main/java
+2023-01-30 15:08:58,332 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /crmlead-manager-provider/src/main/resources
+2023-01-30 15:08:58,333 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /crmlead-manager-provider/src/main/resources
+2023-01-30 15:08:58,333 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /crmlead-manager-provider/src/test/java
+2023-01-30 15:08:58,582 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mavenproject/src/main/java
+2023-01-30 15:08:58,582 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mavenproject/src/main/resources
+2023-01-30 15:08:58,583 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mavenproject/src/test/java
+2023-01-30 15:08:58,584 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mavenproject/src/test/resources
+2023-01-30 15:08:58,812 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /crmlead-repo-provider/src/main/java
+2023-01-30 15:08:58,813 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /crmlead-repo-provider/src/main/resources
+2023-01-30 15:08:58,813 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /crmlead-repo-provider/src/main/resources
+2023-01-30 15:08:58,813 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /crmlead-repo-provider/src/test/java
+2023-01-30 15:09:00,016 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Musafir/src/main/java
+2023-01-30 15:09:00,017 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Musafir/src/test/java
+2023-01-30 15:09:00,066 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /restapi/src/main/java
+2023-01-30 15:09:00,072 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /restapi/src/test/java
+2023-01-30 15:09:00,133 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /crmlead-ctl/src/main/java
+2023-01-30 15:09:00,133 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /crmlead-ctl/src/main/resources
+2023-01-30 15:09:00,133 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /crmlead-ctl/src/main/resources
+2023-01-30 15:09:00,134 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /crmlead-ctl/src/test/java
+2023-01-30 15:09:00,556 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 20 project(s) in 30 sec
+2023-01-30 15:09:05,605 [Worker-13: Discover lifecycle mappings] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/C:/Users/SARITH~1/AppData/Local/Temp/RemoteBundleDiscoveryStrategy6468405707717245035.tmp/org.eclipse.m2e.discovery.oss_catalog_1.14.jar_6869432815370508565.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-wtp.xml
+2023-01-30 15:09:05,605 [Worker-13: Discover lifecycle mappings] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-wtp does not contain lifecycle mapping metadata
+2023-01-30 15:09:05,607 [Worker-13: Discover lifecycle mappings] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/C:/Users/SARITH~1/AppData/Local/Temp/RemoteBundleDiscoveryStrategy6468405707717245035.tmp/org.eclipse.m2e.discovery.oss_catalog_1.14.jar_6869432815370508565.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-egit.xml
+2023-01-30 15:09:05,607 [Worker-13: Discover lifecycle mappings] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2023-01-30 15:09:05,609 [Worker-13: Discover lifecycle mappings] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/C:/Users/SARITH~1/AppData/Local/Temp/RemoteBundleDiscoveryStrategy6468405707717245035.tmp/org.eclipse.m2e.discovery.oss_catalog_1.14.jar_6869432815370508565.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive.xml
+2023-01-30 15:09:05,610 [Worker-13: Discover lifecycle mappings] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2023-01-30 15:09:05,640 [Worker-13: Discover lifecycle mappings] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/C:/Users/SARITH~1/AppData/Local/Temp/RemoteBundleDiscoveryStrategy6468405707717245035.tmp/org.eclipse.m2e.discovery.oss_catalog_1.14.jar_6869432815370508565.jar!/lifecycle%2Forg.eclipse.m2e.discovery.extras.m2e-chromatic.xml
+2023-01-30 15:09:05,641 [Worker-13: Discover lifecycle mappings] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.extras.m2e-chromatic does not contain lifecycle mapping metadata
+2023-01-30 15:09:06,753 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2023-01-30 15:09:06,799 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-30 15:09:06,799 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Crm_keyword\src\main\resources
+2023-01-30 15:09:06,801 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-30 15:09:06,802 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Crm_keyword\src\test\resources
+2023-01-30 15:09:06,988 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-30 15:09:06,993 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2023-01-30 15:09:07,001 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-30 15:09:07,002 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-01-30 15:09:07,054 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-30 15:09:07,055 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Musafir\Musafir\src\main\resources
+2023-01-30 15:09:07,057 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-30 15:09:07,057 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Musafir\Musafir\src\test\resources
+2023-01-30 15:09:07,101 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-30 15:09:07,101 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\aik\src\main\resources
+2023-01-30 15:09:07,102 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-30 15:09:07,102 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\aik\src\test\resources
+2023-01-30 15:09:07,272 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-30 15:09:07,272 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\apirest\src\main\resources
+2023-01-30 15:09:07,274 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-30 15:09:07,274 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\apirest\src\test\resources
+2023-01-30 15:09:08,317 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-30 15:09:08,317 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\crmlead\crmlead-commons\src\main\resources
+2023-01-30 15:09:08,317 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\crmlead\crmlead-commons\src\main\resources
+2023-01-30 15:09:08,320 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-30 15:09:08,320 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\crmlead\crmlead-commons\src\test\resources
+2023-01-30 15:09:08,914 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-30 15:09:08,914 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\crmlead\crmlead-domain\src\main\resources
+2023-01-30 15:09:08,914 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\crmlead\crmlead-domain\src\main\resources
+2023-01-30 15:09:08,915 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-30 15:09:08,915 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\crmlead\crmlead-domain\src\test\resources
+2023-01-30 15:09:09,503 [Worker-18: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/crmlead-domain: crm:crmlead-domain:0.0.1-SNAPSHOT with classifier  to /crmlead-domain/target/classes
+2023-01-30 15:09:09,508 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-30 15:09:09,508 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\crmlead\crmlead-biz-api\src\main\resources
+2023-01-30 15:09:09,508 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\crmlead\crmlead-biz-api\src\main\resources
+2023-01-30 15:09:09,510 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-30 15:09:09,510 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\crmlead\crmlead-biz-api\src\test\resources
+2023-01-30 15:09:10,532 [Worker-18: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/crmlead-biz-api: crm:crmlead-biz-api:0.0.1-SNAPSHOT with classifier  to /crmlead-biz-api/target/classes
+2023-01-30 15:09:10,532 [Worker-18: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/crmlead-domain: crm:crmlead-domain:0.0.1-SNAPSHOT with classifier  to /crmlead-domain/target/classes
+2023-01-30 15:09:10,536 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-30 15:09:10,537 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-30 15:09:10,537 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-30 15:09:10,547 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-30 15:09:10,547 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\crmlead\crmlead-ctl\src\test\resources
+2023-01-30 15:09:10,993 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-30 15:09:10,993 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\crmlead\crmlead-manager-api\src\main\resources
+2023-01-30 15:09:10,993 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\crmlead\crmlead-manager-api\src\main\resources
+2023-01-30 15:09:10,997 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-30 15:09:10,997 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\crmlead\crmlead-manager-api\src\test\resources
+2023-01-30 15:09:11,861 [Worker-18: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/crmlead-manager-api: crm:crmlead-manager-api:0.0.1-SNAPSHOT with classifier  to /crmlead-manager-api/target/classes
+2023-01-30 15:09:11,864 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-30 15:09:11,865 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-30 15:09:11,865 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-30 15:09:11,869 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-30 15:09:11,869 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\crmlead\crmlead-manager-provider\src\test\resources
+2023-01-30 15:09:12,387 [Worker-18: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/crmlead-domain: crm:crmlead-domain:0.0.1-SNAPSHOT with classifier  to /crmlead-domain/target/classes
+2023-01-30 15:09:12,396 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-30 15:09:12,396 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\crmlead\crmlead-repo-api\src\main\resources
+2023-01-30 15:09:12,396 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\crmlead\crmlead-repo-api\src\main\resources
+2023-01-30 15:09:12,398 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-30 15:09:12,398 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\crmlead\crmlead-repo-api\src\test\resources
+2023-01-30 15:09:13,290 [Worker-18: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/crmlead-repo-api: crm:crmlead-repo-api:0.0.1-SNAPSHOT with classifier  to /crmlead-repo-api/target/classes
+2023-01-30 15:09:13,290 [Worker-18: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/crmlead-domain: crm:crmlead-domain:0.0.1-SNAPSHOT with classifier  to /crmlead-domain/target/classes
+2023-01-30 15:09:13,290 [Worker-18: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/crmlead-biz-api: crm:crmlead-biz-api:0.0.1-SNAPSHOT with classifier  to /crmlead-biz-api/target/classes
+2023-01-30 15:09:13,293 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-30 15:09:13,294 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-30 15:09:13,294 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-30 15:09:13,299 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-30 15:09:13,299 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\crmlead\crmlead-biz-provider\src\test\resources
+2023-01-30 15:09:14,179 [Worker-18: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/crmlead-repo-api: crm:crmlead-repo-api:0.0.1-SNAPSHOT with classifier  to /crmlead-repo-api/target/classes
+2023-01-30 15:09:14,180 [Worker-18: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/crmlead-domain: crm:crmlead-domain:0.0.1-SNAPSHOT with classifier  to /crmlead-domain/target/classes
+2023-01-30 15:09:14,189 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-30 15:09:14,190 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-30 15:09:14,231 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-30 15:09:14,236 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-30 15:09:14,236 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\crmlead\crmlead-repo-provider\src\test\resources
+2023-01-30 15:09:14,574 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2023-01-30 15:09:14,592 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-30 15:09:14,593 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-30 15:09:14,593 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-30 15:09:14,594 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-30 15:09:14,621 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-30 15:09:14,621 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\restapi\src\main\resources
+2023-01-30 15:09:14,623 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-30 15:09:14,623 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\restapi\src\test\resources
+2023-01-30 15:09:14,844 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2023-01-30 15:09:14,863 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-30 15:09:14,864 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Automation\Learning\selenium\src\main\resources
+2023-01-30 15:09:14,864 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-30 15:09:14,865 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Automation\Learning\selenium\src\test\resources
+2023-01-31 12:04:34,874 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-02-06 14:48:57,701 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-02-06 14:49:03,392 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2023-02-06 14:49:04,081 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-06 14:49:04,081 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Crm_keyword\src\main\resources
+2023-02-06 14:49:04,083 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-06 14:49:04,083 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Crm_keyword\src\test\resources
+2023-02-06 14:49:04,468 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-06 14:49:04,524 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2023-02-06 14:49:04,572 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-06 14:49:04,623 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-02-06 14:49:05,366 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-06 14:49:05,366 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Musafir\Musafir\src\main\resources
+2023-02-06 14:49:05,369 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-06 14:49:05,369 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\Musafir\Musafir\src\test\resources
+2023-02-06 14:49:05,486 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-06 14:49:05,486 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\aik\src\main\resources
+2023-02-06 14:49:05,487 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-06 14:49:05,487 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\aik\src\test\resources
+2023-02-06 14:49:06,116 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-06 14:49:06,116 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\apirest\src\main\resources
+2023-02-06 14:49:06,119 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-06 14:49:06,119 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\apirest\src\test\resources
+2023-02-06 14:49:09,632 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-06 14:49:09,634 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\crmlead\crmlead-commons\src\main\resources
+2023-02-06 14:49:09,634 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\crmlead\crmlead-commons\src\main\resources
+2023-02-06 14:49:09,637 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-06 14:49:09,637 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\crmlead\crmlead-commons\src\test\resources
+2023-02-06 14:49:10,680 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-06 14:49:10,681 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\crmlead\crmlead-domain\src\main\resources
+2023-02-06 14:49:10,681 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\crmlead\crmlead-domain\src\main\resources
+2023-02-06 14:49:10,682 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-06 14:49:10,682 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\crmlead\crmlead-domain\src\test\resources
+2023-02-06 14:49:11,667 [Worker-5: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/crmlead-domain: crm:crmlead-domain:0.0.1-SNAPSHOT with classifier  to /crmlead-domain/target/classes
+2023-02-06 14:49:11,687 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-06 14:49:11,687 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\crmlead\crmlead-biz-api\src\main\resources
+2023-02-06 14:49:11,687 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\crmlead\crmlead-biz-api\src\main\resources
+2023-02-06 14:49:11,689 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-06 14:49:11,689 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\crmlead\crmlead-biz-api\src\test\resources
+2023-02-06 14:49:14,388 [Worker-5: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/crmlead-biz-api: crm:crmlead-biz-api:0.0.1-SNAPSHOT with classifier  to /crmlead-biz-api/target/classes
+2023-02-06 14:49:14,389 [Worker-5: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/crmlead-domain: crm:crmlead-domain:0.0.1-SNAPSHOT with classifier  to /crmlead-domain/target/classes
+2023-02-06 14:49:14,411 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-06 14:49:14,412 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-02-06 14:49:14,412 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-02-06 14:49:14,423 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-06 14:49:14,424 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Automation\crmlead\crmlead-ctl\src\test\resources
+2023-02-06 14:49:15,672 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to build parent project for org.springframework.boot:spring-boot-starter-parent:pom:2.3.5.RELEASE
+2023-02-06 14:49:15,674 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to build parent project for cn.org.thinkcloud:think-cloud-build:pom:2.0.0.RELEASE
+2023-02-06 14:49:15,677 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to build parent project for crm:crmlead:pom:0.0.1-SNAPSHOT
+2023-02-06 14:49:15,679 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to build parent project for crm:crmlead-manager-api:jar:0.0.1-SNAPSHOT
