@@ -1,0 +1,7 @@
+annotations\AnnotationsTest.class
+org\com\aik\airkorder\AppTest.class
+screenshots\TestsummaryReport.class
+org\com\aik\airkorder\AikLogin_TestCase.class
+screenshots\BaseTest.class
+screenshots\ITestListenerClass.class
+screenshots\TestClass.class

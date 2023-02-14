@@ -1,3 +1,6 @@
+/*
+ * Author Saritha
+ */
 package screenshots;
 
 import static org.testng.Assert.assertEquals;
